@@ -1,0 +1,62 @@
+# Dependencies
+node_modules/
+*/node_modules/
+dashboardfe/node_modules/
+dashboardbe/node_modules/
+
+# Build files
+dashboardfe/dist/
+dashboardfe/build/
+dashboardbe/dist/
+dashboardbe/build/
+
+# SQLite database files
+*.sqlite
+*.sqlite3
+dashboardbe/*.sqlite
+dashboardbe/*.sqlite3
+dashboardbe/database.sqlite
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+
+# Editor directories and files
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Uploaded files
+dashboardbe/uploads/
+uploads/
+
+# Cache
+.cache/
+.npm
+.yarn/cache
+.eslintcache
+
+# Testing
+coverage/
+
+# Production specific files
+dashboardfe/.vercel
+dashboardbe/.vercel
+.vercel
