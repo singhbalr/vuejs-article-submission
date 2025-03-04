@@ -24,10 +24,10 @@ npm run dev
 
 ## Screenshots
 
-![Login](https://imgur.com/XXqDtBq)
-![Dashboard](https://imgur.com/JaY3f8t)
-![Generate Article](https://imgur.com/qGhjDBr)
-![List](https://imgur.com/whafoj7)
+![Login](https://i.imgur.com/XXqDtBq.png)
+![Dashboard](https://i.imgur.com/JaY3f8t.png)
+![Generate Article](https://i.imgur.com/qGhjDBr.png)
+![List](https://i.imgur.com/whafoj7.png)
 
 ## Author
 
